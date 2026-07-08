@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Abdullah Hashmi Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Abdullah Hashmi</h1>
 
