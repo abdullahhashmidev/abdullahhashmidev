@@ -1,6 +1,24 @@
 <p align="center">
   <img src="banner.png" alt="Abdullah Hashmi Banner" width="100%">
 </p>
+<p align="center">
+  <a href="mailto:abdullahhashmi541@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-hashmi-762290280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/923180017129">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://profile.indeed.com/resume">
+    <img src="https://img.shields.io/badge/Indeed-2557A7?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed">
+  </a>
+</p>
+
+<p align="center">
+  📍 Based in Karachi, Pakistan &nbsp;|&nbsp; 🟢 Open to Work
+</p>
 
 <h1 align="center">Hi 👋, I'm Abdullah Hashmi</h1>
 
@@ -105,11 +123,7 @@ Business workflow automation using n8n, APIs, and AI Agents.
 
 # 📫 Contact
 
-📧 Email
 
-abdullahhashmi541@gmail.com
-
-📍 Karachi, Pakistan
 
 ---
 
