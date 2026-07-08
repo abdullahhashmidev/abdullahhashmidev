@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="GitHub Banner" width="100%">
-</p>       
 
 <h1 align="center">Hi 👋, I'm Abdullah Hashmi</h1>
 
@@ -114,3 +111,6 @@ abdullahhashmi541@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile.
+
+
+Remove old banner code
